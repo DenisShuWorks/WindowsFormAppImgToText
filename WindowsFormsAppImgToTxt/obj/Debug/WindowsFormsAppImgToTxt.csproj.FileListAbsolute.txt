@@ -1,0 +1,13 @@
+C:\Users\denis\source\repos\WindowsFormsAppImgToTxt\WindowsFormsAppImgToTxt\bin\Debug\WindowsFormsAppImgToTxt.exe.config
+C:\Users\denis\source\repos\WindowsFormsAppImgToTxt\WindowsFormsAppImgToTxt\bin\Debug\WindowsFormsAppImgToTxt.exe
+C:\Users\denis\source\repos\WindowsFormsAppImgToTxt\WindowsFormsAppImgToTxt\bin\Debug\WindowsFormsAppImgToTxt.pdb
+C:\Users\denis\source\repos\WindowsFormsAppImgToTxt\WindowsFormsAppImgToTxt\obj\Debug\WindowsFormsAppImgToTxt.csprojAssemblyReference.cache
+C:\Users\denis\source\repos\WindowsFormsAppImgToTxt\WindowsFormsAppImgToTxt\obj\Debug\WindowsFormsAppImgToTxt.Form1.resources
+C:\Users\denis\source\repos\WindowsFormsAppImgToTxt\WindowsFormsAppImgToTxt\obj\Debug\WindowsFormsAppImgToTxt.Properties.Resources.resources
+C:\Users\denis\source\repos\WindowsFormsAppImgToTxt\WindowsFormsAppImgToTxt\obj\Debug\WindowsFormsAppImgToTxt.csproj.GenerateResource.cache
+C:\Users\denis\source\repos\WindowsFormsAppImgToTxt\WindowsFormsAppImgToTxt\obj\Debug\WindowsFormsAppImgToTxt.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\WindowsFormsAppImgToTxt\WindowsFormsAppImgToTxt\obj\Debug\WindowsFormsAppImgToTxt.exe
+C:\Users\denis\source\repos\WindowsFormsAppImgToTxt\WindowsFormsAppImgToTxt\obj\Debug\WindowsFormsAppImgToTxt.pdb
+C:\Users\denis\source\repos\WindowsFormsAppImgToTxt\WindowsFormsAppImgToTxt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\denis\source\repos\WindowsFormsAppImgToTxt\WindowsFormsAppImgToTxt\bin\Debug\Newtonsoft.Json.xml
+C:\Users\denis\source\repos\WindowsFormsAppImgToTxt\WindowsFormsAppImgToTxt\obj\Debug\WindowsFormsAppImgToTxt.csproj.CopyComplete
